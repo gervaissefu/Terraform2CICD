@@ -1,0 +1,5 @@
+# Ignore terraform directories
+.terraform/
+
+# Ignore executable files
+*.exe
